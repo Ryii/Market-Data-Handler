@@ -1,6 +1,6 @@
 # 🚀 High-Frequency Market Data Engine
 
-**Built for HRT Software Engineering Interview**
+**Production-Grade High-Frequency Trading System**
 
 A production-grade, high-performance market data feed handler with real-time visualization dashboard. Demonstrates expertise in low-latency C++, financial protocols, lock-free programming, and modern web technologies.
 
@@ -280,7 +280,7 @@ node tests/websocket_test.js
 - **Real-time updates**: WebSocket integration with automatic reconnection
 - **TypeScript**: Full type safety and IDE support
 
-## 🏆 Why This Impresses HRT
+## 🏆 Technical Excellence
 
 ### **Technical Excellence**
 1. **Low-latency expertise**: Sub-microsecond processing demonstrates understanding of HFT requirements
@@ -357,7 +357,7 @@ market-data-engine/
 
 ## 📞 Contact & Demo
 
-**Ready for HRT Interview Discussion:**
+**Ready for Technical Discussion:**
 - Live demo available with real-time performance metrics
 - Code walkthrough highlighting low-latency optimizations
 - Architecture discussion covering scalability and reliability
@@ -371,4 +371,4 @@ market-data-engine/
 
 ---
 
-*This project showcases the intersection of high-performance systems programming and financial technology - exactly what HRT values in their engineering talent.* 
+*This project showcases the intersection of high-performance systems programming and financial technology - demonstrating expertise in both domains.* 

@@ -268,7 +268,7 @@ void signal_handler(int signal) {
 int main(int argc, char* argv[]) {
     std::cout << "🚀 High-Frequency Market Data Engine v1.0\n";
     std::cout << "==========================================\n";
-    std::cout << "Built for HRT Software Engineering Interview\n";
+    std::cout << "Production-Grade High-Frequency Trading System\n";
     std::cout << "Demonstrates: C++20, Lock-free programming, \n";
     std::cout << "              FIX protocol, Real-time systems,\n";
     std::cout << "              WebSocket streaming, React frontend\n\n";

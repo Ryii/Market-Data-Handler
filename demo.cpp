@@ -11,7 +11,7 @@
 
 // High-Frequency Market Data Engine Demo
 // =====================================
-// Showcases HFT-grade performance concepts for HRT interview
+// Showcases HFT-grade performance concepts for high-frequency trading
 
 namespace hft_demo {
 
@@ -440,7 +440,7 @@ public:
 int main() {
     std::cout << "🚀 High-Frequency Market Data Engine Demo\n";
     std::cout << "==========================================\n";
-    std::cout << "Built for HRT Software Engineering Interview\n\n";
+    std::cout << "Production-Grade High-Frequency Trading System\n\n";
     
     std::cout << "🎯 Demonstrating:\n";
     std::cout << "  • Sub-microsecond latency order book processing\n";
@@ -498,7 +498,7 @@ int main() {
         std::cout << "✅ Lock-free architecture validated\n";
         std::cout << "✅ Real-time performance monitoring implemented\n\n";
         
-        std::cout << "🎯 Ready for HRT Interview Discussion!\n";
+        std::cout << "🎯 Ready for Technical Discussion!\n";
         std::cout << "Key talking points:\n";
         std::cout << "  • Lock-free programming with memory ordering\n";
         std::cout << "  • Financial market microstructure\n";
