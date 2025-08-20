@@ -1,0 +1,227 @@
+.App {
+  text-align: left;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1d29;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Trading dashboard specific styles */
+.market-data-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.symbol-card {
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.symbol-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 255, 136, 0.1);
+}
+
+.price-positive {
+  color: #00ff88 !important;
+}
+
+.price-negative {
+  color: #ff4757 !important;
+}
+
+.price-neutral {
+  color: #888 !important;
+}
+
+/* Order book visualization */
+.order-book-container {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: 12px;
+}
+
+.order-book-level {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 8px;
+  margin: 1px 0;
+  border-radius: 2px;
+}
+
+.bid-level {
+  background: linear-gradient(to right, rgba(0, 255, 136, 0.1), transparent);
+  border-left: 2px solid #00ff88;
+}
+
+.ask-level {
+  background: linear-gradient(to left, rgba(255, 71, 87, 0.1), transparent);
+  border-right: 2px solid #ff4757;
+}
+
+/* Performance indicators */
+.latency-indicator {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.latency-excellent {
+  background: rgba(0, 255, 136, 0.2);
+  color: #00ff88;
+}
+
+.latency-good {
+  background: rgba(255, 193, 7, 0.2);
+  color: #ffc107;
+}
+
+.latency-poor {
+  background: rgba(255, 71, 87, 0.2);
+  color: #ff4757;
+}
+
+/* Connection status */
+.connection-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+
+.status-connected {
+  background: #00ff88;
+}
+
+.status-disconnected {
+  background: #ff4757;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 255, 136, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(0, 255, 136, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 255, 136, 0);
+  }
+}
+
+/* Chart customizations */
+.recharts-cartesian-axis-tick-value {
+  font-size: 11px;
+}
+
+.recharts-tooltip-wrapper {
+  z-index: 1000;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .market-data-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 8px;
+  }
+  
+  .order-book-container {
+    font-size: 10px;
+  }
+}
+
+/* Animation for real-time updates */
+.data-update {
+  animation: dataFlash 0.3s ease-in-out;
+}
+
+@keyframes dataFlash {
+  0% { background-color: rgba(0, 255, 136, 0.3); }
+  100% { background-color: transparent; }
+}
+
+/* Loading states */
+.loading-skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+.loading-skeleton-dark {
+  background: linear-gradient(90deg, #2a2d3a 25%, #3a3d4a 50%, #2a2d3a 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* High-frequency data indicators */
+.hf-indicator {
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(0, 255, 136, 0.1);
+  color: #00ff88;
+  border: 1px solid rgba(0, 255, 136, 0.3);
+}
+
+.volume-bar {
+  height: 4px;
+  background: linear-gradient(to right, #00ff88, #00cc6a);
+  border-radius: 2px;
+  margin-top: 4px;
+}
+
+/* Professional trading theme */
+.trading-panel {
+  background: linear-gradient(135deg, #1a1d29 0%, #2a2d3a 100%);
+  border: 1px solid #333;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.metric-card {
+  background: rgba(42, 45, 58, 0.8);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+}
+
+/* Typography enhancements */
+.mono-font {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+}
+
+.trading-font {
+  font-family: 'Inter', 'Roboto', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+} 

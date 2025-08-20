@@ -1,0 +1,15 @@
+# ninja log v7
+1	1132	1755653162244987820	CMakeFiles/market_data_core.dir/src/core/market_data_types.cpp.o	ba685ddb0a3bb84d
+3	1139	1755653162247107488	CMakeFiles/market_simulator.dir/src/simulator/data_generator.cpp.o	af85336edcae4eac
+3	1143	1755653162246741772	CMakeFiles/market_data_core.dir/src/analytics/latency_tracker.cpp.o	4de7c50e6dca8073
+2	1148	1755653162245648750	CMakeFiles/market_data_core.dir/src/core/simd_operations.cpp.o	8acfdc695a3fdd46
+1	1157	1755653162245260409	CMakeFiles/market_data_core.dir/src/core/lock_free_queue.cpp.o	c8604e67aabd2287
+1	1161	1755653162245460788	CMakeFiles/market_data_core.dir/src/core/memory_pool.cpp.o	89e7c64443f0c6a1
+3	1186	1755653162246556935	CMakeFiles/market_data_core.dir/src/analytics/market_metrics.cpp.o	74967270b1cfde31
+2	1212	1755653162246198886	CMakeFiles/market_data_core.dir/src/feed_handler/feed_processor.cpp.o	5653026564a8f2e7
+2	1222	1755653162246030050	CMakeFiles/market_data_core.dir/src/protocols/binary_parser.cpp.o	f89f062d4a6d95e2
+3	1420	1755653162246923776	CMakeFiles/market_simulator.dir/src/simulator/market_simulator.cpp.o	f206da5c770d7b35
+2	1457	1755653162245845546	CMakeFiles/market_data_core.dir/src/protocols/fix_parser.cpp.o	c03fa4385b7e6a8f
+1136	1747	1755653163379596233	CMakeFiles/benchmark.dir/src/benchmark/throughput_benchmark.cpp.o	eb73cd2c8fa69715
+2	2615	1755653162246376098	CMakeFiles/market_data_core.dir/src/feed_handler/order_book.cpp.o	a6a8c12e154b5a9
+3	2679	1755653162247286200	CMakeFiles/websocket_server.dir/src/server/simple_server.cpp.o	3b4673f90ec7881d

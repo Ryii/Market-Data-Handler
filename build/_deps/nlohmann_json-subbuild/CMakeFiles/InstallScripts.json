@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
