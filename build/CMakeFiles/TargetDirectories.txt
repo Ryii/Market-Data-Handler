@@ -1,6 +1,7 @@
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/market_data_core.dir
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/market_simulator.dir
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/websocket_server.dir
+/Users/rysun/Desktop/market-data-engine/build/CMakeFiles/ws_server.dir
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/benchmark.dir
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/feed_handler.dir
 /Users/rysun/Desktop/market-data-engine/build/CMakeFiles/edit_cache.dir

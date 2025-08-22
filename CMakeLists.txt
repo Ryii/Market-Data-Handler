@@ -67,6 +67,19 @@ target_link_libraries(websocket_server
     nlohmann_json::nlohmann_json
 )
 
+# WebSocket server with real WebSocket protocol
+add_executable(ws_server
+    src/server/ws_server.cpp
+)
+
+target_link_libraries(ws_server 
+    market_data_core
+    Threads::Threads
+    nlohmann_json::nlohmann_json
+    crypto
+    ssl
+)
+
 # Performance benchmarks
 add_executable(benchmark
     src/benchmark/latency_benchmark.cpp
@@ -93,6 +106,6 @@ target_link_libraries(feed_handler
 # add_subdirectory(tests)
 
 # Install targets
-install(TARGETS feed_handler market_simulator websocket_server benchmark
+install(TARGETS feed_handler market_simulator websocket_server ws_server benchmark
     RUNTIME DESTINATION bin
 ) 

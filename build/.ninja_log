@@ -13,3 +13,13 @@
 1136	1747	1755653163379596233	CMakeFiles/benchmark.dir/src/benchmark/throughput_benchmark.cpp.o	eb73cd2c8fa69715
 2	2615	1755653162246376098	CMakeFiles/market_data_core.dir/src/feed_handler/order_book.cpp.o	a6a8c12e154b5a9
 3	2679	1755653162247286200	CMakeFiles/websocket_server.dir/src/server/simple_server.cpp.o	3b4673f90ec7881d
+24	104	1755889917423086761	libmarket_data_core.a	924bcfca536a637f
+104	595	1755889917502730532	market_simulator	90ab4cee58f4fbcb
+104	595	1755889917503027783	websocket_server	854a0ba73bb84a5e
+13	1181	1755890094330992682	CMakeFiles/benchmark.dir/src/benchmark/latency_benchmark.cpp.o	70b6da21ebd3e4c8
+15	132	1755890184242769672	benchmark	eff04cf68eb8e82e
+6	739	1755890240727808601	CMakeFiles/feed_handler.dir/src/main.cpp.o	352e26e6956bcd53
+739	795	1755890241460453169	feed_handler	787c5eb832b9a629
+3	431	1755890381144940716	build.ninja	e0496c7b3ec8d43b
+3	431	1755890381144940716	/Users/rysun/Desktop/market-data-engine/build/cmake_install.cmake	e0496c7b3ec8d43b
+3	431	1755890381144940716	/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-build/cmake_install.cmake	e0496c7b3ec8d43b

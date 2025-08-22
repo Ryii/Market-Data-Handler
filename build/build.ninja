@@ -56,8 +56,6 @@ build CMakeFiles/market_data_core.dir/src/core/market_data_types.cpp.o: CXX_COMP
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/core/lock_free_queue.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/core/lock_free_queue.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -66,8 +64,6 @@ build CMakeFiles/market_data_core.dir/src/core/lock_free_queue.cpp.o: CXX_COMPIL
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/core/memory_pool.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/core/memory_pool.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -76,8 +72,6 @@ build CMakeFiles/market_data_core.dir/src/core/memory_pool.cpp.o: CXX_COMPILER__
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/core/simd_operations.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/core/simd_operations.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -86,8 +80,6 @@ build CMakeFiles/market_data_core.dir/src/core/simd_operations.cpp.o: CXX_COMPIL
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/core
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/protocols/fix_parser.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/protocols/fix_parser.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -96,8 +88,6 @@ build CMakeFiles/market_data_core.dir/src/protocols/fix_parser.cpp.o: CXX_COMPIL
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/protocols
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/protocols/binary_parser.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/protocols/binary_parser.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -106,8 +96,6 @@ build CMakeFiles/market_data_core.dir/src/protocols/binary_parser.cpp.o: CXX_COM
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/protocols
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/feed_handler/feed_processor.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/feed_handler/feed_processor.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -116,8 +104,6 @@ build CMakeFiles/market_data_core.dir/src/feed_handler/feed_processor.cpp.o: CXX
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/feed_handler
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/feed_handler/order_book.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/feed_handler/order_book.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -126,8 +112,6 @@ build CMakeFiles/market_data_core.dir/src/feed_handler/order_book.cpp.o: CXX_COM
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/feed_handler
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/analytics/market_metrics.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/analytics/market_metrics.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -136,8 +120,6 @@ build CMakeFiles/market_data_core.dir/src/analytics/market_metrics.cpp.o: CXX_CO
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/analytics
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 build CMakeFiles/market_data_core.dir/src/analytics/latency_tracker.cpp.o: CXX_COMPILER__market_data_core_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/analytics/latency_tracker.cpp || cmake_object_order_depends_target_market_data_core
   CONFIG = Release
@@ -146,8 +128,6 @@ build CMakeFiles/market_data_core.dir/src/analytics/latency_tracker.cpp.o: CXX_C
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   OBJECT_FILE_DIR = CMakeFiles/market_data_core.dir/src/analytics
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
-  TARGET_PDB = libmarket_data_core.pdb
 
 
 # =============================================================================
@@ -164,9 +144,8 @@ build libmarket_data_core.a: CXX_STATIC_LIBRARY_LINKER__market_data_core_Release
   OBJECT_DIR = CMakeFiles/market_data_core.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/market_data_core.dir/market_data_core.pdb
   TARGET_FILE = libmarket_data_core.a
-  TARGET_PDB = libmarket_data_core.pdb
+  TARGET_PDB = market_data_core.a.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target market_simulator
@@ -184,8 +163,6 @@ build CMakeFiles/market_simulator.dir/src/simulator/market_simulator.cpp.o: CXX_
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_simulator.dir
   OBJECT_FILE_DIR = CMakeFiles/market_simulator.dir/src/simulator
-  TARGET_COMPILE_PDB = CMakeFiles/market_simulator.dir/
-  TARGET_PDB = market_simulator.pdb
 
 build CMakeFiles/market_simulator.dir/src/simulator/data_generator.cpp.o: CXX_COMPILER__market_simulator_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/simulator/data_generator.cpp || cmake_object_order_depends_target_market_simulator
   CONFIG = Release
@@ -194,8 +171,6 @@ build CMakeFiles/market_simulator.dir/src/simulator/data_generator.cpp.o: CXX_CO
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/market_simulator.dir
   OBJECT_FILE_DIR = CMakeFiles/market_simulator.dir/src/simulator
-  TARGET_COMPILE_PDB = CMakeFiles/market_simulator.dir/
-  TARGET_PDB = market_simulator.pdb
 
 
 # =============================================================================
@@ -213,9 +188,8 @@ build market_simulator: CXX_EXECUTABLE_LINKER__market_simulator_Release CMakeFil
   OBJECT_DIR = CMakeFiles/market_simulator.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/market_simulator.dir/
   TARGET_FILE = market_simulator
-  TARGET_PDB = market_simulator.pdb
+  TARGET_PDB = market_simulator.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target websocket_server
@@ -233,8 +207,6 @@ build CMakeFiles/websocket_server.dir/src/server/simple_server.cpp.o: CXX_COMPIL
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/websocket_server.dir
   OBJECT_FILE_DIR = CMakeFiles/websocket_server.dir/src/server
-  TARGET_COMPILE_PDB = CMakeFiles/websocket_server.dir/
-  TARGET_PDB = websocket_server.pdb
 
 
 # =============================================================================
@@ -252,9 +224,44 @@ build websocket_server: CXX_EXECUTABLE_LINKER__websocket_server_Release CMakeFil
   OBJECT_DIR = CMakeFiles/websocket_server.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/websocket_server.dir/
   TARGET_FILE = websocket_server
-  TARGET_PDB = websocket_server.pdb
+  TARGET_PDB = websocket_server.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ws_server
+
+
+#############################################
+# Order-only phony target for ws_server
+
+build cmake_object_order_depends_target_ws_server: phony || cmake_object_order_depends_target_market_data_core
+
+build CMakeFiles/ws_server.dir/src/server/ws_server.cpp.o: CXX_COMPILER__ws_server_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/server/ws_server.cpp || cmake_object_order_depends_target_ws_server
+  CONFIG = Release
+  DEP_FILE = CMakeFiles/ws_server.dir/src/server/ws_server.cpp.o.d
+  FLAGS = -O3 -march=native -mtune=native -DNDEBUG -std=c++20 -arch arm64
+  INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
+  OBJECT_DIR = CMakeFiles/ws_server.dir
+  OBJECT_FILE_DIR = CMakeFiles/ws_server.dir/src/server
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ws_server
+
+
+#############################################
+# Link the executable ws_server
+
+build ws_server: CXX_EXECUTABLE_LINKER__ws_server_Release CMakeFiles/ws_server.dir/src/server/ws_server.cpp.o | libmarket_data_core.a || libmarket_data_core.a
+  CONFIG = Release
+  FLAGS = -O3 -march=native -mtune=native -DNDEBUG -arch arm64
+  LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names
+  LINK_LIBRARIES = libmarket_data_core.a  -lcrypto  -lssl
+  OBJECT_DIR = CMakeFiles/ws_server.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = ws_server
+  TARGET_PDB = ws_server.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target benchmark
@@ -272,8 +279,6 @@ build CMakeFiles/benchmark.dir/src/benchmark/latency_benchmark.cpp.o: CXX_COMPIL
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/benchmark.dir
   OBJECT_FILE_DIR = CMakeFiles/benchmark.dir/src/benchmark
-  TARGET_COMPILE_PDB = CMakeFiles/benchmark.dir/
-  TARGET_PDB = benchmark.pdb
 
 build CMakeFiles/benchmark.dir/src/benchmark/throughput_benchmark.cpp.o: CXX_COMPILER__benchmark_unscanned_Release /Users/rysun/Desktop/market-data-engine/src/benchmark/throughput_benchmark.cpp || cmake_object_order_depends_target_benchmark
   CONFIG = Release
@@ -282,8 +287,6 @@ build CMakeFiles/benchmark.dir/src/benchmark/throughput_benchmark.cpp.o: CXX_COM
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/benchmark.dir
   OBJECT_FILE_DIR = CMakeFiles/benchmark.dir/src/benchmark
-  TARGET_COMPILE_PDB = CMakeFiles/benchmark.dir/
-  TARGET_PDB = benchmark.pdb
 
 
 # =============================================================================
@@ -301,9 +304,8 @@ build benchmark: CXX_EXECUTABLE_LINKER__benchmark_Release CMakeFiles/benchmark.d
   OBJECT_DIR = CMakeFiles/benchmark.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/benchmark.dir/
   TARGET_FILE = benchmark
-  TARGET_PDB = benchmark.pdb
+  TARGET_PDB = benchmark.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target feed_handler
@@ -321,8 +323,6 @@ build CMakeFiles/feed_handler.dir/src/main.cpp.o: CXX_COMPILER__feed_handler_uns
   INCLUDES = -I/Users/rysun/Desktop/market-data-engine/include -I/Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-src/include
   OBJECT_DIR = CMakeFiles/feed_handler.dir
   OBJECT_FILE_DIR = CMakeFiles/feed_handler.dir/src
-  TARGET_COMPILE_PDB = CMakeFiles/feed_handler.dir/
-  TARGET_PDB = feed_handler.pdb
 
 
 # =============================================================================
@@ -340,9 +340,8 @@ build feed_handler: CXX_EXECUTABLE_LINKER__feed_handler_Release CMakeFiles/feed_
   OBJECT_DIR = CMakeFiles/feed_handler.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/feed_handler.dir/
   TARGET_FILE = feed_handler
-  TARGET_PDB = feed_handler.pdb
+  TARGET_PDB = feed_handler.dbg
 
 
 #############################################
@@ -494,7 +493,7 @@ build market_data_core: phony libmarket_data_core.a
 #############################################
 # Folder: /Users/rysun/Desktop/market-data-engine/build
 
-build all: phony libmarket_data_core.a market_simulator websocket_server benchmark feed_handler _deps/nlohmann_json-build/all
+build all: phony libmarket_data_core.a market_simulator websocket_server ws_server benchmark feed_handler _deps/nlohmann_json-build/all
 
 # =============================================================================
 
@@ -510,14 +509,14 @@ build _deps/nlohmann_json-build/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja /Users/rysun/Desktop/market-data-engine/build/cmake_install.cmake /Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-build/cmake_install.cmake: RERUN_CMAKE | /Users/rysun/Desktop/market-data-engine/CMakeLists.txt /opt/homebrew/share/cmake/Modules/CMakeCXXCompiler.cmake.in /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp /opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/share/cmake/Modules/CMakeCompilerIdDetection.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerId.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeFindBinUtils.cmake /opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeNinjaFindMake.cmake /opt/homebrew/share/cmake/Modules/CMakePackageConfigHelpers.cmake /opt/homebrew/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/homebrew/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /opt/homebrew/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /opt/homebrew/share/cmake/Modules/CMakeSystem.cmake.in /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/share/cmake/Modules/CMakeTestCXXCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeTestCompilerCommon.cmake /opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/CheckIncludeFileCXX.cmake /opt/homebrew/share/cmake/Modules/CheckLibraryExists.cmake /opt/homebrew/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/homebrew/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/ExternalProject.cmake /opt/homebrew/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake /opt/homebrew/share/cmake/Modules/FetchContent.cmake /opt/homebrew/share/cmake/Modules/FetchContent/CMakeLists.cmake.in /opt/homebrew/share/cmake/Modules/FindGit.cmake /opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake /opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake /opt/homebrew/share/cmake/Modules/FindThreads.cmake /opt/homebrew/share/cmake/Modules/GNUInstallDirs.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake /opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/Internal/FeatureTesting.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/UnixPaths.cmake /opt/homebrew/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake _deps/nlohmann_json-src/CMakeLists.txt _deps/nlohmann_json-src/cmake/config.cmake.in _deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in _deps/nlohmann_json-src/cmake/pkg-config.pc.in
+build build.ninja /Users/rysun/Desktop/market-data-engine/build/cmake_install.cmake /Users/rysun/Desktop/market-data-engine/build/_deps/nlohmann_json-build/cmake_install.cmake: RERUN_CMAKE | /Users/rysun/Desktop/market-data-engine/CMakeLists.txt /opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/share/cmake/Modules/CMakePackageConfigHelpers.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/CheckIncludeFileCXX.cmake /opt/homebrew/share/cmake/Modules/CheckLibraryExists.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/share/cmake/Modules/ExternalProject.cmake /opt/homebrew/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake /opt/homebrew/share/cmake/Modules/FetchContent.cmake /opt/homebrew/share/cmake/Modules/FetchContent/CMakeLists.cmake.in /opt/homebrew/share/cmake/Modules/FindGit.cmake /opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake /opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake /opt/homebrew/share/cmake/Modules/FindThreads.cmake /opt/homebrew/share/cmake/Modules/GNUInstallDirs.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/UnixPaths.cmake /opt/homebrew/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake _deps/nlohmann_json-src/CMakeLists.txt _deps/nlohmann_json-src/cmake/config.cmake.in _deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in _deps/nlohmann_json-src/cmake/pkg-config.pc.in
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Users/rysun/Desktop/market-data-engine/CMakeLists.txt /opt/homebrew/share/cmake/Modules/CMakeCXXCompiler.cmake.in /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp /opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/share/cmake/Modules/CMakeCompilerIdDetection.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerABI.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerId.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake /opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeFindBinUtils.cmake /opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeNinjaFindMake.cmake /opt/homebrew/share/cmake/Modules/CMakePackageConfigHelpers.cmake /opt/homebrew/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake /opt/homebrew/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake /opt/homebrew/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake /opt/homebrew/share/cmake/Modules/CMakeSystem.cmake.in /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/share/cmake/Modules/CMakeTestCXXCompiler.cmake /opt/homebrew/share/cmake/Modules/CMakeTestCompilerCommon.cmake /opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/CheckIncludeFileCXX.cmake /opt/homebrew/share/cmake/Modules/CheckLibraryExists.cmake /opt/homebrew/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /opt/homebrew/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /opt/homebrew/share/cmake/Modules/ExternalProject.cmake /opt/homebrew/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake /opt/homebrew/share/cmake/Modules/FetchContent.cmake /opt/homebrew/share/cmake/Modules/FetchContent/CMakeLists.cmake.in /opt/homebrew/share/cmake/Modules/FindGit.cmake /opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake /opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake /opt/homebrew/share/cmake/Modules/FindThreads.cmake /opt/homebrew/share/cmake/Modules/GNUInstallDirs.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake /opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/Internal/FeatureTesting.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/UnixPaths.cmake /opt/homebrew/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake _deps/nlohmann_json-src/CMakeLists.txt _deps/nlohmann_json-src/cmake/config.cmake.in _deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in _deps/nlohmann_json-src/cmake/pkg-config.pc.in: phony
+build /Users/rysun/Desktop/market-data-engine/CMakeLists.txt /opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake /opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake /opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake /opt/homebrew/share/cmake/Modules/CMakePackageConfigHelpers.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/CheckIncludeFileCXX.cmake /opt/homebrew/share/cmake/Modules/CheckLibraryExists.cmake /opt/homebrew/share/cmake/Modules/Compiler/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /opt/homebrew/share/cmake/Modules/Compiler/Clang.cmake /opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake /opt/homebrew/share/cmake/Modules/ExternalProject.cmake /opt/homebrew/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake /opt/homebrew/share/cmake/Modules/FetchContent.cmake /opt/homebrew/share/cmake/Modules/FetchContent/CMakeLists.cmake.in /opt/homebrew/share/cmake/Modules/FindGit.cmake /opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake /opt/homebrew/share/cmake/Modules/FindPkgConfig.cmake /opt/homebrew/share/cmake/Modules/FindThreads.cmake /opt/homebrew/share/cmake/Modules/GNUInstallDirs.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Linker/AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Apple-Clang.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin-Initialize.cmake /opt/homebrew/share/cmake/Modules/Platform/Darwin.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake /opt/homebrew/share/cmake/Modules/Platform/Linker/Apple-AppleClang.cmake /opt/homebrew/share/cmake/Modules/Platform/UnixPaths.cmake /opt/homebrew/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.1.0/CMakeCXXCompiler.cmake CMakeFiles/4.1.0/CMakeSystem.cmake _deps/nlohmann_json-src/CMakeLists.txt _deps/nlohmann_json-src/cmake/config.cmake.in _deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in _deps/nlohmann_json-src/cmake/pkg-config.pc.in: phony
 
 
 #############################################

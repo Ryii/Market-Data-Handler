@@ -202,7 +202,7 @@ private:
         // Generate test messages and measure end-to-end latency
         for (size_t i = 0; i < BENCHMARK_ITERATIONS / 10; ++i) {  // Fewer iterations for e2e
             MarketDataMessage msg(MessageType::TRADE);
-            msg.data.trade = MarketTrade(
+            msg.trade_data = MarketTrade(
                 now(),
                 make_symbol("E2E_TEST"),
                 from_double(100.0 + (i % 100) * 0.01),
@@ -241,8 +241,8 @@ private:
             const auto start = std::chrono::high_resolution_clock::now();
             
             MarketDataMessage msg(MessageType::TRADE);  // Stack allocated
-            msg.data.trade.price = from_double(100.0);
-            msg.data.trade.quantity = 1000;
+            msg.trade_data.price = from_double(100.0);
+            msg.trade_data.quantity = 1000;
             
             const auto end = std::chrono::high_resolution_clock::now();
             latencies_.push_back(std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count());
@@ -259,7 +259,7 @@ private:
             
             auto& msg = pool[i % pool.size()];  // Pool allocation
             msg.type = MessageType::TRADE;
-            msg.data.trade.price = from_double(100.0);
+            msg.trade_data.price = from_double(100.0);
             
             const auto end = std::chrono::high_resolution_clock::now();
             latencies_.push_back(std::chrono::duration_cast<std::chrono::nanoseconds>(end - start).count());
@@ -343,7 +343,7 @@ private:
                 
                 for (size_t i = 0; i < ITERATIONS_PER_THREAD; ++i) {
                     MarketDataMessage msg(MessageType::TRADE);
-                    msg.data.trade.price = from_double(100.0 + i * 0.01);
+                    msg.trade_data.price = from_double(100.0 + i * 0.01);
                     
                     const auto start = std::chrono::high_resolution_clock::now();
                     queue.enqueue(std::move(msg));
@@ -425,7 +425,7 @@ private:
             
             while (running.load()) {
                 MarketDataMessage msg(MessageType::TRADE);
-                msg.data.trade = MarketTrade(
+                msg.trade_data = MarketTrade(
                     now(),
                     make_symbol("THRPT_TEST"),
                     from_double(price_dist(rng)),
