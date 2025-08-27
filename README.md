@@ -1,4 +1,4 @@
-# Market Data Handler
+# Market Data Processor
 
 This project processes market data with <1ms latency. Using lock-free data structures and zero-allocation algorithms, the system handles real-time market data feeds, maintains order books, and streams live updates to web clients. The engine supports FIX 4.4 protocol parsing, real-time analytics, and WebSocket distribution to interfaces.
 
