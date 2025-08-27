@@ -1,10 +1,8 @@
-# Market Data Handler 📈
+# Market Data Handler
 
 This project processes market data at lightning-fast speeds with sub-microsecond latency. Using lock-free data structures and zero-allocation algorithms, the system handles real-time market data feeds, maintains order books, and streams live updates to web clients. The engine supports FIX 4.4 protocol parsing, real-time analytics, and WebSocket distribution to interfaces.
 
 ### Performance Benchmarks
-
-![Performance Dashboard](web/public/dashboard-preview.png "Real-time Performance Dashboard")
 
 **Latency Results (P99):**
 
@@ -19,7 +17,7 @@ This project processes market data at lightning-fast speeds with sub-microsecond
 - Order Book Updates: 800K/sec (Target: 100K/sec)
 - WebSocket Clients: 500+ concurrent (Target: 100)
 
-##### Prerequisites Setup
+### Setup
 
 1. Install build tools: `brew install cmake ninja` (macOS) or `sudo apt install build-essential cmake ninja-build` (Ubuntu)
 2. Install dependencies: `brew install nlohmann-json` (macOS) or `sudo apt install nlohmann-json3-dev` (Ubuntu)
@@ -121,7 +119,7 @@ The lock-free queue implementation delivers ~25ns operation latency, while FIX p
 
 ### Reproducing Results
 
-To reproduce: follow the steps under [Getting Started](#getting-started) and run the benchmark suite:
+To reproduce: follow the steps under [Setup](#setup) and run the benchmark suite:
 
 ```bash
 # Run comprehensive benchmarks
